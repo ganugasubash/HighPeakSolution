@@ -1,0 +1,6 @@
+How to run the code - 
+
+1.Create two files namely input.txt and output.txt in drive D:// (You can create in any drive)
+2.Copy the input text to input.txt and keep output.txt empty
+3.Copy the goodie-dilemma solution.txt to your  favorite java compiler
+4.run the code and navigate to the output file created earlier for the output.
